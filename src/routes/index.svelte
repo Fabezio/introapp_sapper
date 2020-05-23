@@ -33,14 +33,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Bienvenue</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Bienvenue!</h1>
 
 <figure>
-	<img alt='Success Kid' src='successkid.jpg'>
-	<figcaption>Have fun with Sapper!</figcaption>
+	<img alt='mon avatar' src='img/face_co-svelte.png'>
+	<figcaption>Bonjour tout le monde!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>Pas trop dur à trouver?</strong></p>
