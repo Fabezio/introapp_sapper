@@ -33,14 +33,14 @@
 </style>
 
 <svelte:head>
-	<title>Bienvenue</title>
+	<title>Accueil</title>
 </svelte:head>
 
-<h1>Bienvenue!</h1>
+<h1>Great success!</h1>
 
 <figure>
-	<img alt='mon avatar' src='img/face_co-svelte.png'>
-	<figcaption>Bonjour tout le monde!</figcaption>
+	<img alt='Success Kid' src='img/face_co-svelte.png'>
+	<figcaption>Have fun with Sapper!</figcaption>
 </figure>
 
-<p><strong>Pas trop dur à trouver?</strong></p>
+<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
