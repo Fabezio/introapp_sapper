@@ -60,8 +60,18 @@
       </a>
     </li>
     <li class="inter">
+      <a aria-current={segment === 'services' ? 'page' : undefined} href="services">
+        Services
+      </a>
+    </li>
+    <li class="inter">
       <a aria-current={segment === 'about' ? 'page' : undefined} href="about">
         A propos
+      </a>
+    </li>
+    <li class="inter">
+      <a aria-current={segment === 'contact' ? 'page' : undefined} href="contact">
+        Contactez-nous!
       </a>
     </li>
 
