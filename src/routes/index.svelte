@@ -2,7 +2,7 @@
   import Button from "../components/Button.svelte";
 </script>
 
-<style>
+<!-- <style>
   h1,
   figure,
   p {
@@ -37,20 +37,20 @@
       font-size: 4em;
     }
   }
-</style>
+</style> -->
 
 <svelte:head>
   <title>Accueil</title>
 </svelte:head>
 
-<h1>Accueil</h1>
+<h1 class="text-center">Accueil</h1>
 
-<figure>
+<figure class="text-center">
   <img alt="Success Kid" src="img/face_co-svelte.png" />
   <figcaption>Salut à tous!</figcaption>
 </figure>
 
-<p>
+<p class="text-center">
   <strong>Pas trop dur pour trouver?</strong>
 </p>
 <!-- <Button>
