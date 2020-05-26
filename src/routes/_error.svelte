@@ -30,11 +30,15 @@
 <svelte:head>
 	<title>{status}</title>
 </svelte:head>
+<div class="alert alert-warning">
+	<h1>{status}</h1>
+	<hr>
 
-<h1>{status}</h1>
+	<p>{error.message}</p>
 
-<p>{error.message}</p>
 
 {#if dev && error.stack}
 	<pre>{error.stack}</pre>
 {/if}
+</div>
+<a class="float-right" href='home'>retour à l'accueil</a>

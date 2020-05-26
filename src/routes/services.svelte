@@ -41,6 +41,6 @@ a:hover {
 </div>
 <p>Si vous avez besoin de construire, améliorer ou mettre à jour votre site, contactez-moi en cliquant ci-dessous</p>
 
-<button class="btn btn-info btn-block"><a href="contact">
+<a href="contact" class="btn btn-info btn-block">
 Oui, je veux un site optimal
-</a></button>
+</a>
