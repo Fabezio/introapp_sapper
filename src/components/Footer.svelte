@@ -4,7 +4,7 @@ const date = new Date().getFullYear()
 
 <style>
 footer {
-  position: relative;
+  position: absolute;
   bottom: 0;
   width: 100%;
   /* text-align: center; */

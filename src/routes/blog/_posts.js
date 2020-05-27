@@ -8,7 +8,7 @@
 // underscore tells Sapper not to do that.
 
 const posts = [
-	{
+	{ 
 		title: 'What is Sapper?',
 		slug: 'what-is-sapper',
 		html: `
