@@ -4,12 +4,13 @@ const date = new Date().getFullYear()
 
 <style>
 footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   /* text-align: center; */
   border-top: 1px solid rgba(21, 151, 148, .1 );
-  background: rgba(21, 151, 148, .025)
+  background: rgba(21, 151, 148, .025);
+  margin-top: 1em;
 
 }
 a:hover {
