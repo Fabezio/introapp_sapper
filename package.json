@@ -33,7 +33,7 @@
     "@rollup/plugin-replace": "^2.2.0",
     "mdi-svelte": "^1.1.1",
     "npm-run-all": "^4.1.5",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "rollup": "^2.3.4",
     "rollup-plugin-svelte": "^5.0.1",
